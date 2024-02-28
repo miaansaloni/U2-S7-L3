@@ -1,0 +1,12 @@
+#logo {
+  width: 35px;
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+}
+.btn-danger {
+  margin-bottom: 10px;
+}
+.btn-primary {
+}
